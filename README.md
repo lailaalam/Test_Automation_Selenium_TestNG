@@ -2,6 +2,9 @@
 
 ## This project  is on automating an E-commerce Website. Here has been automated the whole signup procedure,Login procedure and the Purchase procedure of the website.
 
+## Drive link of the test cases:
+https://drive.google.com/drive/folders/1hZMWx_JE6ApgADtelbcgWCGgPumlYGgb?usp=sharing
+
 ## Tools used :
  -Intellij IDEA <br/>
  -Selenium <br/>
