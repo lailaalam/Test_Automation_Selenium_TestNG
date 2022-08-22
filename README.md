@@ -8,7 +8,7 @@
  -TestNG (As automation testing Framework)<br/>
  -Allure(For report Generation)<br/>
  
- ## Snippet of the Test report ar included below:
+ ## Snippet of the Test report are included below:
  
  
  ![1_overview](https://user-images.githubusercontent.com/47983558/185986567-45e3530b-9602-4aac-a464-2d4055676e15.PNG)
