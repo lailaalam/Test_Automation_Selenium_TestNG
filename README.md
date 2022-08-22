@@ -1,12 +1,12 @@
 # Test_Automation_Selenium_TestNG
 
-# This project  is on automating an E-commerce Website. Here has been automated the whole signup procedure,Login procedure and the Purchase procedure of the website.
+## This project  is on automating an E-commerce Website. Here has been automated the whole signup procedure,Login procedure and the Purchase procedure of the website.
 
 ## Tools used :
  -Intellij IDEA <br/>
- -Selenium
- -TestNG (As automation testing Framework)
- -Allure(For report Generation)
+ -Selenium <br/>
+ -TestNG (As automation testing Framework)<br/>
+ -Allure(For report Generation)<br/>
  
  ## Snippet of the Test report ar included below:
  
